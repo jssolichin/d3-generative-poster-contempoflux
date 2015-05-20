@@ -1,0 +1,37 @@
+body {
+	margin: 0px; 
+	padding: 0px;
+	background: #eee;
+	font-size: .7em;
+	font-weight: black; 
+	font-family: Helvetica, Arial, 'sans-serif';
+}
+svg {background: #fff;}
+
+.outline {
+    stroke-width: .3;
+    stroke: #ccc;
+    fill: none;
+	text-anchor: middle;
+	dominant-baseline: middle;
+	font-style: italic;
+}
+.readable-letters text {
+	stroke-width: 0;
+	fill: #000;
+	font-size: 7.5em;
+}
+.information {
+	font-size: 1.6em;
+}
+.information-header {
+	text-transform: uppercase;
+	letter-spacing: .33em;
+	letter-spacing: 1.02em;
+}
+.information-body tspan {
+	font-weight: bold;
+}
+.bold {
+	font-weight: bold;
+}
