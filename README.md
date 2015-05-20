@@ -1,10 +1,10 @@
 # d3-generative-poster-contempoflux
 A custom software written using D3 to create a printable generative poster directly from Chrome. Made originally for UCLA's [ContempoFlux](http://www.music.ucla.edu/contempo-flux-contemporary-music-ensemble) Spring 2015, a contemporary music ensemble. The modern nature of the music makes a perfect pairing with creative coding and generative works. 
 
-![http://jssolichin.com/wp-content/uploads/2015/05/IMG_1717-ANIMATION1.gif]
-![http://jssolichin.com/wp-content/uploads/2015/05/IMG_1702.jpg]
-![http://jssolichin.com/wp-content/uploads/2015/05/IMG_1710.jpg]
-![http://jssolichin.com/wp-content/uploads/2015/05/Final-24x36.jpg]
+![Animated gif](http://jssolichin.com/wp-content/uploads/2015/05/IMG_1717-ANIMATION1.gif)
+![Greyscale generated](http://jssolichin.com/wp-content/uploads/2015/05/IMG_1702.jpg)
+![Color generated](http://jssolichin.com/wp-content/uploads/2015/05/IMG_1710.jpg)
+![Final Large Poster](http://jssolichin.com/wp-content/uploads/2015/05/Final-24x36.jpg)
 
 #Artist Statement
 Just like music, the visual art is a collection of elements strung together into a structure where the whole is more than the parts. When I first heard the music for Contempoflux, the eclecticism and the tension between the structured and unstructured/classical and modern, really resonated with me. As a creative coder, the melding of different loci is familiar, being parallel to the merging of expressive art with the rigid code.  I hope these generative posters highlight the beauty in these oppositions and their harmony together. 
